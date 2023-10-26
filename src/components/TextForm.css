@@ -1,0 +1,6 @@
+.placeholder-light::placeholder{
+    color: white;
+}
+.placeholder-dark::placeholder{
+    color: grey;
+}
